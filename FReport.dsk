@@ -1,0 +1,213 @@
+[Closed Files]
+File_0=SourceModule,'D:\project\testado\Unit1.pas',0,1,31,63,62,0,0
+File_1=SourceModule,'D:\project\FReport 2.1\uMain.pas',0,1,87,32,133,0,0
+File_2=SourceModule,'D:\project\FReport 2.1\uReports.pas',0,1,20,44,20,0,0
+File_3=SourceModule,'D:\project\FReport 2.1\uDB.pas',0,1,252,8,341,0,0
+File_4=SourceModule,'d:\program files\borland\delphi7\source\vcl\adodb.pas',0,1,1711,1,1732,0,0
+File_5=SourceModule,'D:\D7Comp\FastReport\Source\fr_reg.pas',0,1,125,22,141,0,0
+File_6=SourceModule,'D:\project\FReport 2.02\uDB.pas',0,1,293,1,1,1,0
+File_7=SourceModule,'D:\project\FReport 2.02\uReports.pas',0,1,1,1,1,0,0
+File_8=SourceModule,'D:\project\FReport 2.02\uMain.pas',0,1,218,25,226,1,0
+File_9=SourceModule,'D:\project\FReport 2.02\FReport.dpr',0,1,1,1,1,0,0
+
+[Modules]
+Module0=D:\project\FReport 2.2\uDB.pas
+Module1=D:\project\FReport 2.2\uReports.pas
+Module2=D:\project\FReport 2.2\uMain.pas
+Count=3
+EditWindowCount=1
+
+[D:\project\FReport 2.2\uDB.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\project\FReport 2.2\uReports.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\project\FReport 2.2\uMain.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=1
+
+[D:\Program Files\Borland\Delphi7\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[D:\project\FReport 2.2\FReport.dpr]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=3
+CurrentView=1
+View0=0
+View1=1
+View2=2
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=272
+Top=148
+Width=868
+Height=646
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=860
+ClientHeight=617
+LeftPanelSize=140
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=85
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=000004000000000000000000000000000000000000000000000100000000000000000B0000004D65737361676556696577FFFFFFFF
+
+[View0]
+Module=D:\project\FReport 2.2\uMain.pas
+CursorX=63
+CursorY=15
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=D:\project\FReport 2.2\uDB.pas
+CursorX=16
+CursorY=23
+TopLine=1
+LeftCol=1
+
+[View2]
+Module=D:\project\FReport 2.2\uReports.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1280
+Height=110
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1272
+ClientHeight=81
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=438
+Height=303
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=277
+TBDockHeight=303
+LRDockWidth=438
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=107
+Width=156
+Height=84
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=1
+Top=133
+Width=261
+Height=833
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=253
+ClientHeight=807
+TBDockHeight=509
+LRDockWidth=190
+Dockable=1
+SplitPos=119
+ArrangeBy=Name
+SelectedItem=Caption
+ExpandedItems=Anchors,Attributes,Options
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=105
+Width=190
+Height=344
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=182
+ClientHeight=318
+TBDockHeight=344
+LRDockWidth=190
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=12
+Width=140
+Height=514
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=514
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=12
+Top=0
+Width=848
+Height=85
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=848
+ClientHeight=85
+TBDockHeight=85
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
